@@ -17,7 +17,7 @@
 # Code
 To see the code:
 - App script: [app.py](https://github.com/g626s/Mission-to-Mars/blob/main/app.py)
-- HTML code: [index.html](https://github.com/g626s/Mission-to-Mars/blob/main/index.html)
+- HTML code: [index.html](https://github.com/g626s/Mission-to-Mars/blob/main/templates/index.html)
 - Scraping script: [scraping.py](https://github.com/g626s/Mission-to-Mars/blob/main/scraping.py)
 
 # Project Overview
